@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Dominic Nshimba](https://github.com/domitechnshimba)
 - Place: Livingstone, Zambia
 - Bio: Web developer 
-- Github: [Ítalo Epifânio](https://github.com/domitechnshimba)  
+- Github: [Dominic Nshimba](https://github.com/domitechnshimba)  
